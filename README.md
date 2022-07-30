@@ -2,7 +2,7 @@
 <p align="center">  🥺  <p/>
 
 ## About
-- Software Developer
+- Web Developer
 
 ## Link
 - [Codepen](https://codepen.io/wasshoy)
