@@ -1,8 +1,8 @@
-# Hello, 
+# Hello
 <p align="center">🍱<p/>
 
 ## About
-- Web Developer
+- Software Engineer
 
 ## Link
 - [Codepen](https://codepen.io/wasshoy)
